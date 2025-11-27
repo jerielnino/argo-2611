@@ -1,0 +1,3263 @@
+Morning Welcome to argo CD training -- morining batch
+
+====
+
+
+
+Lab Details
+
+===
+
+S.No	Console URL	Login Email	Login Password	Username	Password	Login URL	Region	Assigned to 
+
+1	https://app.labasservice.com/zippyops	zp-labuser1@labasservice.com	Lab@$service	traininguser3@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Trainer
+
+2	https://app.labasservice.com/zippyops	zp-labuser2@labasservice.com	Lab@$service	traininguser4@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Aishwarya
+
+3	https://app.labasservice.com/zippyops	zp-labuser3@labasservice.com	Lab@$service	traininguser5@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Prasanthi Revilla
+
+4	https://app.labasservice.com/zippyops	zp-labuser4@labasservice.com	Lab@$service	traininguser6@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Aswathy Sugathan
+
+5	https://app.labasservice.com/zippyops	zp-labuser5@labasservice.com	Lab@$service	traininguser7@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Shruthi  K V
+
+6	https://app.labasservice.com/zippyops	zp-labuser6@labasservice.com	Lab@$service	traininguser8@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Rakesh R
+
+7	https://app.labasservice.com/zippyops	zp-labuser7@labasservice.com	Lab@$service	traininguser9@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	
+
+8	https://app.labasservice.com/zippyops	zp-labuser8@labasservice.com	Lab@$service	traininguser10@zippyopsgmail.onmicrosoft.com	n1cbtK6buRohitZFtOAh	https://portal.azure.com	EAST US	Kamalkishor Bidkar
+
+9	https://app.labasservice.com/zippyops	zp-labuser9@labasservice.com	Lab@$service	traininguser11@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Manoj Kumar R
+
+10	https://app.labasservice.com/zippyops	zp-labuser10@labasservice.com	Lab@$service	traininguser12@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Divya S
+
+11	https://app.labasservice.com/zippyops	zp-labuser11@labasservice.com	Lab@$service	traininguser13@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Jittu Punnoose
+
+12	https://app.labasservice.com/zippyops	zp-labuser12@labasservice.com	Lab@$service	traininguser14@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Subin John Mathew
+
+13	https://app.labasservice.com/zippyops	zp-labuser13@labasservice.com	Lab@$service	traininguser15@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Manoj S
+
+14	https://app.labasservice.com/zippyops	zp-labuser14@labasservice.com	Lab@$service	traininguser16@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	
+
+15	https://app.labasservice.com/zippyops	zp-labuser15@labasservice.com	Lab@$service	traininguser17@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	
+
+16	https://app.labasservice.com/zippyops	zp-labuser16@labasservice.com	Lab@$service	traininguser18@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Jothi Ann Thomas
+
+17	https://app.labasservice.com/zippyops	zp-labuser17@labasservice.com	Lab@$service	traininguser19@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Rohit
+
+18	https://app.labasservice.com/zippyops	zp-labuser18@labasservice.com	Lab@$service	traininguser20@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Jareer
+
+19	https://app.labasservice.com/zippyops	zp-labuser19@labasservice.com	Lab@$service	traininguser21@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Deepu
+
+20	https://app.labasservice.com/zippyops	zp-labuser20@labasservice.com	Lab@$service	traininguser22@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Mintu
+
+21	https://app.labasservice.com/zippyops	zp-labuser21@labasservice.com	Lab@$service	traininguser23@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Roshan
+
+22	https://app.labasservice.com/zippyops	zp-labuser22@labasservice.com	Lab@$service	traininguser24@zippyopsgmail.onmicrosoft.com	n1cbtK6busZFtOAh	https://portal.azure.com	EAST US	Akhil
+
+
+
+In Azure portal setup MFA
+
+---
+
+select "Set up a different way to sign in"
+
+select "phone"
+
+
+
+Create kubernetes cluster
+
+---
+
+azure -- search "Kubernetes services" -- create -- kubernetes cluster
+
+
+
+Basics
+
+    Resource group -- Create new -- Name -- {your name} -- ok
+
+    Cluster details -- Cluster preset configuration -- Dev/Test
+
+    Kubernetes cluster name -- {your name}
+
+    Region -- East US
+
+    Fleet Manager -- none
+
+    Availability zones -- None
+
+    AKS pricing tier -- Free
+
+    Kubernetes version -- 1.32.9
+
+    Automatic upgrade -- enabled with patch
+
+    Node security channel type -- node image
+
+    Authentication and Authorization -- local account with kubernetes RBAC
+
+    
+
+Node pool 
+
+   select "agent pool"
+
+        node size 
+
+            choose a size 
+
+                Standard Standard_D2s_v3 
+
+			select 
+
+            update
+
+next
+
+
+
+Networking: 
+
+    No changes
+
+next
+
+
+
+Integration: 
+
+    No changes
+
+next
+
+
+
+Monitoring: No changes
+
+
+
+    uncheck alerts
+
+
+
+next
+
+
+
+Security: No changes
+
+
+
+    next
+
+    
+
+Advanced: No changes
+
+
+
+    next
+
+    
+
+Tags: No changes
+
+
+
+    next
+
+
+
+Review and create: No changes
+
+
+
+    Create
+
+    
+
+Go to resources
+
+
+
+Connect to terminal
+
+---
+
+sudo su
+
+
+
+install azure cli
+
+---
+
+curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+
+
+
+check azure cli installation
+
+---
+
+az --version
+
+
+
+login to azure cli
+
+---
+
+az login
+
+
+
+follow on screen instruction
+
+
+
+Press Enter
+
+
+
+download and install kubectl
+
+---
+
+curl -LO https://dl.k8s.io/release/v1.32.9/bin/linux/amd64/kubectl
+
+
+
+chmod +x kubectl
+
+mv kubectl /usr/bin/
+
+
+
+Get the kubeconfig from azure
+
+-- 
+
+azure -- kubernetes service -- your clustet -- connect
+
+    copy paste the command under "Download cluster credentials"
+
+    
+
+test the connectivity
+
+---
+
+kubectl get nodes
+
+
+
+command to list the namespaces
+
+---
+
+kubectl get namespaces
+
+kubectl get ns
+
+
+
+command to list all resources on a namespace
+
+---
+
+kubectl get all
+
+
+
+command to get all the resources in the kube-system name space
+
+---
+
+kubectl get all -n kube-system
+
+
+
+pod
+
+--
+
+kubectl get pod
+
+kubectl get pod --all-namespaces
+
+kubectl get pod -A
+
+kubectl get po  -A
+
+
+
+Deployment
+
+---
+
+kubectl get deployment -A
+
+kubectl get deploy -A
+
+    
+
+replicaset
+
+---
+
+kubectl get replicaset -A
+
+kubectl get rs -A
+
+    
+
+Service
+
+---
+
+kubectl get service -A
+
+kubectl get svc -A
+
+
+
+Daemonset
+
+---
+
+kubectl get daemonset -n kube-system
+
+kubectl get ds -n kube-system
+
+
+
+statefulset
+
+--
+
+kubectl get statefulset -A
+
+
+
+persistenntvolumeclaim on all namespaces
+
+---
+
+kubectl get pvc -A
+
+kubectl get persistentvolumeclaim -A
+
+
+
+storageclass
+
+---
+
+kubectl get sc
+
+kubectl get storageclass
+
+
+
+persistant volume
+
+---
+
+kubectl get pv
+
+kubectl get persistentvolume
+
+
+
+config map
+
+---
+
+kubectl get cm -A
+
+kubectl get configmap -A
+
+
+
+secrets
+
+---
+
+kubectl get secrets -A
+
+
+
+command to list the nodes
+
+---
+
+kubectl get nodes
+
+
+
+command to get a detailled infromnation about a resource
+
+---
+
+kubectl describe node {your node name}
+
+
+
+command to edit a resource
+
+---
+
+kubectl edit node {your node name}
+
+
+
+ESC -- :q! -- ENTER
+
+
+
+Api Reference
+
+---
+
+https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.32/
+
+
+
+create directory for kubernetes
+
+---
+
+cd
+
+
+
+mkdir kubernetes
+
+cd kubernetes
+
+
+
+create firtsapp
+
+---
+
+nano firstapp.yaml 
+
+
+
+apiVersion: apps/v1
+
+kind: Deployment
+
+metadata:
+
+  name: webdeployment
+
+  labels:
+
+    service: web
+
+spec:
+
+  replicas: 2
+
+  selector:
+
+    matchLabels:
+
+      app: web
+
+  template:
+
+    metadata:
+
+      labels:
+
+        app: web
+
+    spec:
+
+      containers:
+
+      - name: nginxcontainer
+
+        image: nginx
+
+        ports:
+
+        - containerPort: 80
+
+---
+
+apiVersion: v1
+
+kind: Service
+
+metadata:
+
+  name: webservice
+
+  labels:
+
+    service: web
+
+spec:
+
+  ports:
+
+  - port: 80
+
+    protocol: TCP
+
+  selector:
+
+    app: web
+
+  type: LoadBalancer
+
+
+
+save and exit
+
+---
+
+CTRL + o  -- enter -- CTRL + x
+
+
+
+create the resources in default namespace
+
+---
+
+kubectl create -f firstapp.yaml
+
+
+
+list all resources in default namespace
+
+---
+
+kubectl get all
+
+
+
+access the public ip on browser
+
+---
+
+http://{your public ip}
+
+
+
+Modify the yaml to increase the replicas from 2 to 4
+
+---
+
+nano firstapp.yaml 
+
+
+
+apiVersion: apps/v1
+
+kind: Deployment
+
+metadata:
+
+  name: webdeployment
+
+  labels:
+
+    service: web
+
+spec:
+
+  replicas: 4
+
+  selector:
+
+    matchLabels:
+
+      app: web
+
+  template:
+
+    metadata:
+
+      labels:
+
+        app: web
+
+    spec:
+
+      containers:
+
+      - name: nginxcontainer
+
+        image: nginx
+
+        ports:
+
+        - containerPort: 80
+
+---
+
+apiVersion: v1
+
+kind: Service
+
+metadata:
+
+  name: webservice
+
+  labels:
+
+    service: web
+
+spec:
+
+  ports:
+
+  - port: 80
+
+    protocol: TCP
+
+  selector:
+
+    app: web
+
+  type: LoadBalancer
+
+  
+
+try to run the create again -- This will faill
+
+---
+
+kubectl create -f firstapp.yaml
+
+
+
+apply the yaml
+
+---
+
+kubectl apply -f firstapp.yaml
+
+kubectl apply -f firstapp.yaml
+
+
+
+Delete a pod 
+
+---
+
+kubectl delete po {any pod}
+
+
+
+list all resources in default namespace
+
+---
+
+kubectl get all
+
+
+
+Delete the resources created by yaml
+
+---
+
+kubectl delete -f firstapp.yaml
+
+
+
+stop the cluster
+
+---
+
+Azure portal -- kubernetes service -- you cluster -- stop
+
+
+
+Day 2
+
+===
+
+Connect to server and portal
+
+
+
+start the cluster
+
+---
+
+Azure portal -- kubernetes service -- you cluster -- start
+
+
+
+Test the connectivity to cluster
+
+---
+
+sudo su
+
+
+
+kubectl get nodes
+
+
+
+Argo repo
+
+---
+
+https://github.com/argoproj/argo-workflows
+
+
+
+Docs
+
+--
+
+https://argo-workflows.readthedocs.io/en/latest/
+
+
+
+Releases page
+
+---
+
+https://github.com/argoproj/argo-workflows/releases
+
+
+
+Create argo namespace
+
+---
+
+kubectl create namespace argo
+
+
+
+deploy the argo work flow
+
+---
+
+kubectl apply -n argo -f https://github.com/argoproj/argo-workflows/releases/download/v3.7.4/install.yaml
+
+
+
+List the reources in the argo namespace
+
+---
+
+kubectl get all -n argo
+
+
+
+Create a yaml to disable https on argo server
+
+---
+
+nano argo-server.yaml
+
+
+
+apiVersion: apps/v1
+
+kind: Deployment
+
+metadata:
+
+  name: argo-server
+
+  namespace: argo
+
+spec:
+
+  replicas: 1
+
+  selector:
+
+    matchLabels:
+
+      app: argo-server
+
+  template:
+
+    metadata:
+
+      labels:
+
+        app: argo-server
+
+    spec:
+
+      serviceAccountName: argo-server
+
+      containers:
+
+      - name: argo-server
+
+        image: quay.io/argoproj/argocli:v3.7.4
+
+        args:
+
+        - server
+
+        - --auth-mode=server
+
+        - --secure=false
+
+        ports:
+
+        - containerPort: 2746
+
+          name: web
+
+        readinessProbe:
+
+          failureThreshold: 3
+
+          httpGet:
+
+            path: /
+
+            port: 2746
+
+            scheme: HTTP
+
+          initialDelaySeconds: 10
+
+          periodSeconds: 20
+
+          successThreshold: 1
+
+          timeoutSeconds: 1
+
+        env:
+
+        - name: IN_CLUSTER
+
+          value: "true"
+
+        - name: ARGO_NAMESPACE
+
+          valueFrom:
+
+            fieldRef:
+
+              fieldPath: metadata.namespace
+
+        volumeMounts:
+
+        - mountPath: /tmp
+
+          name: tmp
+
+      volumes:
+
+      - emptyDir: {}
+
+        name: tmp
+
+        
+
+CTRL + O -- ENTER -- CTRL+X
+
+
+
+Delete existing deployment
+
+---
+
+kubectl delete deployment argo-server -n argo
+
+
+
+Create deployment with removed tls and auth configuration
+
+---
+
+kubectl apply -f argo-server.yaml
+
+
+
+List all the resources in argo name space
+
+---
+
+kubectl get all -n argo
+
+
+
+Edit the service to change the service type to loadbalancer and port number to 80
+
+----
+
+kubectl edit svc argo-server -n argo
+
+
+
+apiVersion: v1
+
+kind: Service
+
+metadata:
+
+  annotations:
+
+    kubectl.kubernetes.io/last-applied-configuration: |
+
+{"apiVersion":"v1","kind":"Service","metadata":{"annotations":{},"name":"argo-server","namespace":"argo"},"spec":{"ports":[{"name":"web","port":2746,"targetPort":2746}],"selector":{"ap
+
+p":"argo-server"}}}
+
+  creationTimestamp: "2025-11-25T04:41:15Z"
+
+  name: argo-server
+
+  namespace: argo
+
+  resourceVersion: "43990"
+
+  uid: 05364cfe-5166-41c2-8b35-02a7885e730b
+
+spec:
+
+  clusterIP: 10.0.11.212
+
+  clusterIPs:
+
+  - 10.0.11.212
+
+  internalTrafficPolicy: Cluster
+
+  ipFamilies:
+
+  - IPv4
+
+  ipFamilyPolicy: SingleStack
+
+  ports:
+
+  - name: web
+
+    port: 80
+
+    protocol: TCP
+
+    targetPort: 2746
+
+  selector:
+
+    app: argo-server
+
+  sessionAffinity: None
+
+  type: LoadBalancer
+
+status:
+
+  loadBalancer: {}
+
+  
+
+
+
+ESC - :wq - ENTER
+
+
+
+chnages on line number 475 and 481
+
+
+
+List the resources and check is the public ip for the service
+
+---
+
+kubectl get all -n argo
+
+
+
+Access your argo ui
+
+---
+
+http://{your public ip}/
+
+
+
+Download argo cli
+
+---
+
+curl -sLO https://github.com/argoproj/argo-workflows/releases/download/v3.7.4/argo-linux-amd64.gz
+
+
+
+Uncompress
+
+---
+
+gunzip argo-linux-amd64.gz
+
+
+
+Make executable
+
+---
+
+chmod +x argo-linux-amd64
+
+
+
+Move to PATH
+
+---
+
+mv argo-linux-amd64 /usr/local/bin/argo
+
+
+
+Verify installation
+
+---
+
+argo version
+
+
+
+get the connection info
+
+---
+
+http://{your public ip}/userinfo
+
+
+
+export env variables
+
+---
+
+export ARGO_SERVER='{your public ip}:80'
+
+export ARGO_HTTP1=true
+
+export ARGO_SECURE=false
+
+export ARGO_TOKEN=''
+
+export ARGO_NAMESPACE=argo
+
+
+
+Test Argo CLI connectivity
+
+---
+
+argo list
+
+
+
+Create a yaml for sample workflow
+
+---
+
+nano hello-world.yaml 
+
+
+
+apiVersion: argoproj.io/v1alpha1
+
+kind: Workflow
+
+metadata:
+
+  generateName: hello-world-
+
+spec:
+
+  entrypoint: training
+
+  templates:
+
+  - name: training
+
+    container:
+
+      image: docker/whalesay
+
+      command: [cowsay]
+
+      args: ["hello from argo workflow on aks"]
+
+      
+
+Create the work flow with yaml
+
+---
+
+argo submit hello-world.yaml -n argo
+
+
+
+list workflows
+
+---
+
+argo list
+
+
+
+get the logs of workflow
+
+---
+
+argo logs hello-world-{your workflow unique id} -n argo
+
+
+
+list the pods in argo namespace
+
+---
+
+kubectl get po -n argo
+
+
+
+get the logs of pod created
+
+---
+
+kubectl logs hello-world-{your pod unique id} -n argo
+
+
+
+List the service account of all name spaces
+
+---
+
+kubectl get sa -A
+
+
+
+list the roles and cluster roles
+
+---
+
+kubectl get clusterrole -A
+
+kubectl get role -A
+
+
+
+Create a role binding for default service account
+
+---
+
+kubectl create rolebinding default-admin --clusterrole=admin --serviceaccount=argo:default -n argo
+
+
+
+list the workflow
+
+---
+
+argo list
+
+
+
+delete the workflow
+
+---
+
+argo delete {your workflow name}
+
+
+
+Create the work flow with yaml in watch mode
+
+---
+
+argo submit hello-world.yaml -n argo --watch
+
+
+
+create a workflow yaml for nginx deployment
+
+---
+
+nano argo-webapp.yaml
+
+
+
+apiVersion: argoproj.io/v1alpha1
+
+kind: Workflow
+
+metadata:
+
+  generateName: deploy-nginx-
+
+spec:
+
+  entrypoint: deploy-nginx
+
+
+
+  templates:
+
+  - name: deploy-nginx
+
+    steps:
+
+    - - name: create-deployment
+
+        template: apply-deployment
+
+    - - name: create-service
+
+        template: apply-service
+
+    - - name: get-service-status
+
+        template: check-service
+
+
+
+  - name: apply-deployment
+
+    container:
+
+      image: bitnami/kubectl
+
+      command: [sh, -c]
+
+      args:
+
+        - |
+
+          cat <<EOF | kubectl apply -f -
+
+          apiVersion: apps/v1
+
+          kind: Deployment
+
+          metadata:
+
+            name: nginx-deployment
+
+            labels:
+
+              app: nginx
+
+          spec:
+
+            replicas: 3
+
+            selector:
+
+              matchLabels:
+
+                app: nginx
+
+            template:
+
+              metadata:
+
+                labels:
+
+                  app: nginx
+
+              spec:
+
+                containers:
+
+                - name: nginx
+
+                  image: nginx:latest
+
+                  ports:
+
+                  - containerPort: 80
+
+          EOF
+
+
+
+  - name: apply-service
+
+    container:
+
+      image: bitnami/kubectl
+
+      command: [sh, -c]
+
+      args:
+
+        - |
+
+          cat <<EOF | kubectl apply -f -
+
+          apiVersion: v1
+
+          kind: Service
+
+          metadata:
+
+            name: nginx-service
+
+            labels:
+
+              app: nginx
+
+          spec:
+
+            type: LoadBalancer
+
+            selector:
+
+              app: nginx
+
+            ports:
+
+            - protocol: TCP
+
+              port: 80
+
+          EOF
+
+
+
+  - name: check-service
+
+    container:
+
+      image: bitnami/kubectl
+
+      command: [sh, -c]
+
+      args:
+
+        - |
+
+          echo "Waiting for LoadBalnacer IP..."
+
+          kubectl get service nginx-service -n argo
+
+          echo ""
+
+          echo "Deployment Status:"
+
+          kubectl get deployment nginx-deployment -n argo
+
+          
+
+Submit the workflow
+
+-- 
+
+argo submit argo-webapp.yaml -n argo --watch
+
+
+
+list all the resources once workflow is completed
+
+---
+
+kubectl get all -n argo
+
+
+
+list the workflow
+
+---
+
+argo list
+
+
+
+see the workflow logs
+
+---
+
+argo logs {your workflow name} -n argo
+
+
+
+list the steps of workflow
+
+---
+
+argo get {your workflow name} -n argo
+
+
+
+retry with step name
+
+---
+
+argo retry {your workflow name} -n argo --restart-successful --node-field-selector displayName=get-service-status --watch
+
+
+
+see the workflow logs
+
+---
+
+argo logs {your workflow name} -n argo
+
+
+
+delete the workflow
+
+---
+
+argo delete deploy-nginx-{your unique id}
+
+argo delete hello-world-{your unique id}
+
+
+
+List the resources in argo namespace
+
+---
+
+kubectl get all -n argo
+
+
+
+delete the deployment and service
+
+---
+
+kubectl delete deploy nginx-deployment -n argo
+
+kubectl delete svc  nginx-service -n argo
+
+
+
+List the resources in argo namespace
+
+---
+
+kubectl get all -n argo
+
+
+
+stop the cluster
+
+---
+
+Azure portal -- kubernetes service -- you cluster -- stop
+
+
+
+Day 3
+
+===
+
+Connect to server and portal
+
+
+
+start the cluster
+
+---
+
+Azure portal -- kubernetes service -- you cluster -- start
+
+
+
+Test the connectivity to cluster
+
+---
+
+sudo su
+
+
+
+kubectl get nodes
+
+
+
+kubectl get svc -n argo
+
+
+
+access argo ui
+
+---
+
+http://{your public ip}
+
+
+
+list the workflows
+
+---
+
+argo list 
+
+
+
+Github
+
+---
+
+create a new repo
+
+---
+
+https://github.com/new
+
+
+
+repository name: argo-2611
+
+
+
+Create Repository
+
+
+
+navigate to kuberenetes directory
+
+---
+
+cd kubernetes
+
+
+
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git branch -M main
+
+
+
+
+
+add the origing using command from your git repo
+
+---
+
+git remote add origin git@github.com:{your github id/argo-2611.git
+
+
+
+Create a key pair for git auth
+
+---
+
+ssh-keygen -t rsa
+
+
+
+Press ENTER 3 times
+
+
+
+get the public key contenet
+
+---
+
+cat /root/.ssh/id_rsa.pub
+
+
+
+add the public key to your repo
+
+---
+
+repo -- settings -- Deploy keys -- add deploykey
+
+    title: argo
+
+    key: copied earlier -- output of command cat /root/.ssh/id_rsa.pub
+
+    select "allow access"
+
+Add key
+
+
+
+Push the code
+
+---
+
+git push -u origin main
+
+
+
+create git workflow
+
+---
+
+nano gitworkflow.yaml 
+
+
+
+apiVersion: argoproj.io/v1alpha1
+
+kind: Workflow
+
+metadata:
+
+  generateName: deploy-from-git
+
+spec:
+
+  entrypoint: git-deploy
+
+
+
+  arguments:
+
+    parameters:
+
+    - name: repo-url
+
+      value: "https://github.com/sathishbob/argo-2611.git"
+
+    - name: branch
+
+      value: "main"
+
+    - name: yaml-path
+
+      value: "firstapp.yaml"
+
+
+
+  volumeClaimTemplates:
+
+  - metadata:
+
+      name: workdir
+
+    spec:
+
+      accessModes: ["ReadWriteOnce"]
+
+      resources:
+
+        requests:
+
+          storage: 1Gi
+
+
+
+  templates:
+
+  - name: git-deploy
+
+    steps:
+
+    - - name: clone-repo
+
+        template: git-clone
+
+    - - name: apply-yaml
+
+        template: kubectl-apply
+
+    - - name: verify
+
+        template: check-status
+
+
+
+  - name: git-clone
+
+    container:
+
+      image: alpine/git
+
+      command: ["/bin/sh", "-c"]
+
+      args:
+
+      - |
+
+        git clone --single-branch --branch {{workflow.parameters.branch}} {{workflow.parameters.repo-url}} /work/repo
+
+        echo "Repository Cloned successfully"
+
+        ls -la /work/repo
+
+      volumeMounts:
+
+      - name: workdir
+
+        mountPath: /work
+
+
+
+  - name: kubectl-apply
+
+    container:
+
+      image: bitnami/kubectl:latest
+
+      command: ["/bin/sh", "-c"]
+
+      args:
+
+      - |
+
+        kubectl apply -f /work/repo/{{workflow.parameters.yaml-path}}
+
+        echo "YAML applied sucessfully."
+
+      volumeMounts:
+
+      - name: workdir
+
+        mountPath: /work
+
+
+
+  - name: check-status
+
+    container:
+
+      image: bitnami/kubectl:latest
+
+      command: ["/bin/sh", "-c"]
+
+      args:
+
+      - |
+
+        kubectl get all -n argo
+
+        echo "Resource validated sucessfully."
+
+
+
+Submit the workflow
+
+-- 
+
+argo submit gitworkflow.yaml -n argo --watch
+
+
+
+see the workflow logs
+
+---
+
+argo logs {your workflow name} -n argo
+
+
+
+list all the resources in the argo name space
+
+---
+
+kubectl get all -n argo
+
+
+
+git private repo with credentials -- reference
+
+---
+
+Create a secret
+
+---
+
+kubectl create secret generic git-credentials --from-literal=username={your-github-username} --from-literal=token={your-github-personal-access-token} -n argo
+
+
+
+workflow yaml
+
+---
+
+apiVersion: argoproj.io/v1alpha1
+
+kind: Workflow
+
+metadata:
+
+  generateName: deploy-from-private-git-
+
+  namespace: argo
+
+spec:
+
+  entrypoint: git-deploy
+
+  
+
+  arguments:
+
+    parameters:
+
+    - name: repo-url
+
+      value: "https://github.com/{your-username}/your-private-repo.git"
+
+    - name: branch
+
+      value: "main"
+
+    - name: yaml-path
+
+      value: "firstapp.yaml"  # Can be a file or directory
+
+  
+
+  volumeClaimTemplates:
+
+  - metadata:
+
+      name: workdir
+
+    spec:
+
+      accessModes: ["ReadWriteOnce"]
+
+      resources:
+
+        requests:
+
+          storage: 1Gi
+
+  
+
+  templates:
+
+  - name: git-deploy
+
+    steps:
+
+    - - name: clone-repo
+
+        template: git-clone
+
+    - - name: apply-yaml
+
+        template: kubectl-apply
+
+    - - name: verify
+
+        template: check-status
+
+
+
+  - name: git-clone
+
+    container:
+
+      image: alpine/git:latest
+
+      command: [sh, -c]
+
+      args:
+
+        - |
+
+          echo "Configuring Git credentials..."
+
+          git config --global credential.helper store
+
+          echo "https://${GIT_USERNAME}:${GIT_TOKEN}@github.com" > ~/.git-credentials
+
+          
+
+          echo "Cloning repository..."
+
+          git clone -b {{workflow.parameters.branch}} {{workflow.parameters.repo-url}} /work/repo
+
+          echo "Repository cloned successfully!"
+
+      env:
+
+      - name: GIT_USERNAME
+
+        valueFrom:
+
+          secretKeyRef:
+
+            name: git-credentials
+
+            key: username
+
+      - name: GIT_TOKEN
+
+        valueFrom:
+
+          secretKeyRef:
+
+            name: git-credentials
+
+            key: token
+
+      volumeMounts:
+
+      - name: workdir
+
+        mountPath: /work
+
+
+
+  - name: kubectl-apply
+
+    container:
+
+      image: bitnami/kubectl:latest
+
+      command: [sh, -c]
+
+      args:
+
+        - |
+
+          echo "Applying Kubernetes manifests..."
+
+          cd /work/repo
+
+          kubectl apply -f {{workflow.parameters.yaml-path}}
+
+          echo "Manifests applied successfully!"
+
+      volumeMounts:
+
+      - name: workdir
+
+        mountPath: /work
+
+
+
+  - name: check-status
+
+    container:
+
+      image: bitnami/kubectl:latest
+
+      command: [sh, -c]
+
+      args:
+
+        - |
+
+          echo "Deployment status:"
+
+          kubectl get all -n argo
+
+          
+
+Do the claean up
+
+---
+
+argo list -n argo
+
+
+
+argo delete {your workflow name} -n argo
+
+
+
+delete the deployment and service
+
+---
+
+kubectl delete deploy webdeployment -n argo
+
+
+
+kubectl delete svc webservice -n argo
+
+
+
+loop in argo
+
+---
+
+nano loop.yaml 
+
+
+
+apiVersion: argoproj.io/v1alpha1
+
+kind: Workflow
+
+metadata:
+
+  generateName: loop-example-
+
+
+
+spec:
+
+  entrypoint: print-loop
+
+  templates:
+
+  - name: print-loop
+
+    steps:
+
+    - - name: print-message
+
+        template: print
+
+        withItems:
+
+          - "aws"
+
+          - "azure"
+
+          - "gcp"
+
+        arguments:
+
+          parameters:
+
+          - name: item
+
+            value: "{{item}}"
+
+
+
+  - name: print
+
+    inputs:
+
+      parameters:
+
+      - name: item
+
+    container:
+
+      image: alpine:3.7
+
+      command: [sh, -c]
+
+      args: ["echo Item: {{inputs.parameters.item}}"]
+
+      
+
+submit the work flow
+
+---
+
+argo submit loop.yaml -n argo --watch
+
+
+
+List the pods
+
+---
+
+kubectl get po -n argo
+
+
+
+check the log of particular container
+
+---
+
+kubectl logs {your pod name} -n argo
+
+
+
+list workflow
+
+---
+
+argo list -n argo
+
+
+
+delete the work flow
+
+---
+
+argo delete {your workflow name} -n argo
+
+
+
+sequence loop
+
+---
+
+nano seq.yaml
+
+
+
+apiVersion: argoproj.io/v1alpha1
+
+kind: Workflow
+
+metadata:
+
+  generateName: sequence-loop-
+
+spec:
+
+  entrypoint: sequence-example
+
+  templates:
+
+  - name: sequence-example
+
+    steps:
+
+    - - name: count
+
+        template: print-number
+
+        withSequence:
+
+          start: "1"
+
+          end: "5"
+
+          format: "%02d"
+
+        arguments:
+
+          parameters:
+
+          - name: number
+
+            value: "{{item}}"
+
+  
+
+  - name: print-number
+
+    inputs:
+
+      parameters:
+
+      - name: number
+
+    container:
+
+      image: alpine:3.7
+
+      command: [sh, -c]
+
+      args: ["echo Number: {{inputs.parameters.number}}"]
+
+      
+
+submit the work flow
+
+---
+
+argo submit seq.yaml -n argo --watch
+
+
+
+List the pods
+
+---
+
+kubectl get po -n argo
+
+
+
+check the log of particular container
+
+---
+
+kubectl logs {your pod name} -n argo
+
+
+
+list workflow
+
+---
+
+argo list -n argo
+
+
+
+delete the work flow
+
+---
+
+argo delete {your workflow name} -n argo
+
+
+
+parameter loop
+
+---
+
+nano param-loop.yaml
+
+
+
+apiVersion: argoproj.io/v1alpha1
+
+kind: Workflow
+
+metadata:
+
+  generateName: param-loop-
+
+spec:
+
+  entrypoint: loop-json
+
+  arguments:
+
+    parameters:
+
+    - name: items-json
+
+      value: '["dev", "qa", "prod"]'
+
+  templates:
+
+  - name: loop-json
+
+    steps:
+
+    - - name: env-step
+
+        template: print-env
+
+        withParam: "{{workflow.parameters.items-json}}"
+
+        arguments:
+
+          parameters:
+
+          - name: environment
+
+            value: "{{item}}"
+
+  
+
+  - name: print-env
+
+    inputs:
+
+      parameters:
+
+      - name: environment
+
+    container:
+
+      image: alpine:3.7
+
+      command: [sh, -c]
+
+      args: ["echo Environment: {{inputs.parameters.environment}}"]
+
+      
+
+submit the work flow
+
+---
+
+argo submit param-loop.yaml -n argo --watch
+
+
+
+List the pods
+
+---
+
+kubectl get po -n argo
+
+
+
+check the log of particular container
+
+---
+
+kubectl logs {your pod name} -n argo
+
+
+
+list workflow
+
+---
+
+argo list -n argo
+
+
+
+delete the work flow
+
+---
+
+argo delete {your workflow name} -n argo
+
+
+
+submit the workflow with custon value
+
+---
+
+argo submit param-loop.yaml -n argo -p items-json='["stage", "production"]'  --watch
+
+
+
+List the pods
+
+---
+
+kubectl get po -n argo
+
+
+
+check the log of particular container
+
+---
+
+kubectl logs {your pod name} -n argo
+
+
+
+list workflow
+
+---
+
+argo list -n argo
+
+
+
+delete the work flow
+
+---
+
+argo delete {your workflow name} -n argo
+
+
+
+conditions
+
+---
+
+nano condition.yaml
+
+
+
+apiVersion: argoproj.io/v1alpha1
+
+kind: Workflow
+
+metadata:
+
+  generateName: conditional-example-
+
+spec:
+
+  entrypoint: main
+
+  arguments:
+
+    parameters:
+
+    - name: env
+
+      value: "dev"
+
+  templates:
+
+  # Main DAG
+
+  - name: main
+
+    dag:
+
+      tasks:
+
+      - name: check-env
+
+        template: print-env
+
+      - name: prod-task
+
+        template: prod-step
+
+        when: "{{workflow.parameters.env}} == 'prod'"
+
+        dependencies: [check-env]
+
+      - name: non-prod-task
+
+        template: non-prod-step
+
+        when: "{{workflow.parameters.env}} != 'prod'"
+
+        dependencies: [check-env]
+
+  # Templates
+
+  - name: print-env
+
+    container:
+
+      image: alpine
+
+      command: ["sh", "-c"]
+
+      args: ["echo 'Environment = {{workflow.parameters.env}}'"]
+
+  - name: prod-step
+
+    container:
+
+      image: alpine
+
+      command: ["sh", "-c"]
+
+      args: ["echo 'Running PROD step...'"]
+
+  - name: non-prod-step
+
+    container:
+
+      image: alpine
+
+      command: ["sh", "-c"]
+
+      args: ["echo 'Running NON-PROD step...'"]
+
+      
+
+Run with dev (default) - should execute non-prod-task
+
+---
+
+argo submit condition.yaml -n argo --watch
+
+
+
+Run with prod - should execute prod-task
+
+---
+
+argo submit condition.yaml -n argo -p env='prod' --watch
+
+
+
+List the pods
+
+---
+
+kubectl get po -n argo
+
+
+
+check the log of particular container
+
+---
+
+kubectl logs {your prod pod name} -n argo
+
+kubectl logs {your non prod pod name} -n argo
+
+
+
+list workflow
+
+---
+
+argo list -n argo
+
+
+
+delete the work flow
+
+---
+
+argo delete {your workflow name} -n argo
+
+argo delete {your workflow name} -n argo
+
+
+
+Create cluster workflow template
+
+---
+
+nano cwft-print.yaml 
+
+
+
+apiVersion: argoproj.io/v1alpha1
+
+kind: ClusterWorkflowTemplate
+
+metadata:
+
+  name: simple-cluster-template
+
+spec:
+
+  templates:
+
+  - name: say-hello
+
+    container:
+
+      image: alpine
+
+      command: ["sh", "-c"]
+
+      args: ["echo Hello from ClusterWorkflowTemplate!"]
+
+      
+
+create and list the template
+
+---
+
+kubectl apply -f cwft-print.yaml
+
+kubectl get cwft
+
+
+
+create workflow to use the template 
+
+---
+
+nano use-template.yaml 
+
+
+
+apiVersion: argoproj.io/v1alpha1
+
+kind: Workflow
+
+metadata:
+
+  generateName: use-cluster-template-
+
+spec:
+
+  entrypoint: call-template
+
+  templates:
+
+  - name: call-template
+
+    steps:
+
+    - - name: hello-step
+
+        templateRef:
+
+          name: simple-cluster-template
+
+          template: say-hello
+
+          clusterScope: true
+
+          
+
+submit the work flow
+
+---
+
+argo submit use-template.yaml -n argo --watch
+
+
+
+List the pods
+
+---
+
+kubectl get po -n argo
+
+
+
+check the log of particular container
+
+---
+
+kubectl logs {your pod name} -n argo
+
+
+
+list workflow
+
+---
+
+argo list -n argo
+
+
+
+delete the work flow
+
+---
+
+argo delete {your workflow name} -n argo
+
+
+
+stop the cluster
+
+---
+
+Azure portal -- kubernetes service -- you cluster -- stop
+
+
+
+
+
+Day 4
+
+====
+
+
+
+start the cluster
+
+---
+
+Azure portal -- kubernetes service -- you cluster -- start
+
+
+
+Test the connectivity to cluster
+
+---
+
+sudo su
+
+
+
+kubectl get nodes
+
+
+
+kubectl get svc -n argo
+
+
+
+access argo ui
+
+---
+
+http://{your public ip}
+
+
+
+list the workflows
+
+---
+
+argo list 
+
+
+
+switch to kubernetes directory
+
+---
+
+cd kubernetes
+
+
+
+create cluster template with parameter
+
+---
+
+nano cwft-withparam.yaml 
+
+
+
+apiVersion: argoproj.io/v1alpha1
+
+kind: ClusterWorkflowTemplate
+
+metadata:
+
+  name: cluster-template-with-param
+
+spec:
+
+  templates:
+
+  - name: print-message
+
+    inputs:
+
+      parameters:
+
+      - name: msg
+
+    container:
+
+      image: alpine
+
+      command: ["sh", "-c"]
+
+      args: ["echo {{inputs.parameters.msg}}"]
+
+      
+
+Create and list cluster template
+
+---
+
+kubectl apply -f cwft-withparam.yaml
+
+kubectl get cwft
+
+
+
+create workflow to use the template
+
+---
+
+nano param-example.yaml 
+
+
+
+apiVersion: argoproj.io/v1alpha1
+
+kind: Workflow
+
+metadata:
+
+  generateName: param-example-
+
+spec:
+
+  entrypoint: start
+
+  arguments:
+
+    parameters:
+
+    - name: message
+
+      value: "Hello from workflow!"
+
+
+
+  templates:
+
+  - name: start
+
+    steps:
+
+    - - name: print-step
+
+        templateRef:
+
+          name: cluster-template-with-param
+
+          template: print-message
+
+          clusterScope: true
+
+        arguments:
+
+          parameters:
+
+          - name: msg
+
+            value: "{{workflow.parameters.message}}"
+
+
+
+
+
+Submit with default parameter
+
+---
+
+argo submit param-example.yaml -n argo --watch
+
+
+
+List the pods
+
+---
+
+kubectl get po -n argo
+
+
+
+check the log of particular container
+
+---
+
+kubectl logs {your pod name} -n argo
+
+
+
+Submit with custom parameter
+
+---
+
+argo submit param-example.yaml -n argo -p message="Custom message from CLI!" --watch
+
+
+
+List the pods
+
+---
+
+kubectl get po -n argo
+
+
+
+check the log of particular container
+
+---
+
+kubectl logs {your pod name} -n argo
+
+
+
+Create a yaml for cron workflow
+
+---
+
+nano cron.yaml 
+
+
+
+apiVersion: argoproj.io/v1alpha1
+
+kind: CronWorkflow
+
+metadata:
+
+  name: daily-backup
+
+  namespace: argo
+
+spec:
+
+  schedule: "0 2 * * *"
+
+  timezone: "America/New_York"
+
+  startingDeadlineSeconds: 300
+
+  concurrencyPolicy: "Forbid"
+
+  sucessfulJobsHistoryLimit: 3
+
+  failledJobsHistoryLimit: 1
+
+
+
+  workflowSpec:
+
+    entrypoint: backup-job
+
+    templates:
+
+    - name: backup-job
+
+      steps:
+
+      - - name: create-backup
+
+          template: backup 
+
+      - - name: verify-backup 
+
+          template: verify
+
+      - - name: upload-backup
+
+          template: upload
+
+
+
+    - name: backup
+
+      container:
+
+        image: postgres:14
+
+        command: [sh, -c]
+
+        args:
+
+          - |
+
+            echo "starting backup"
+
+
+
+    - name: verify
+
+      container:
+
+        image: alpine
+
+        command: [sh, -c]
+
+        args: ["echo 'verifying the backup'"]
+
+
+
+    - name: upload
+
+      container:
+
+        image: alpine
+
+        command: [sh, -c]
+
+        args: ["echo 'uploading the backup to s3'"]
+
+        
+
+Create the workflow
+
+---
+
+kubectl apply -f cron.yaml -n argo
+
+
+
+List all CronWorkflows
+
+---
+
+argo cron list -n argo
+
+
+
+run the cron job manually
+
+---
+
+
+
+cat <<EOF | kubectl create -f - -n argo
+
+apiVersion: argoproj.io/v1alpha1
+
+kind: Workflow
+
+metadata:
+
+  generateName: daily-backup-manual-
+
+spec:
+
+$(kubectl get cronworkflow daily-backup -n argo -o jsonpath='{.spec.workflowSpec}' | sed 's/^/  /')
+
+EOF
+
+
+
+List the workflow
+
+---
+
+argo list -n argo
+
+
+
+list the pods
+
+---
+
+kubectl get po -n argo
+
+
+
+check the log of particular container
+
+---
+
+kubectl logs {your pod name} -n argo
+
+
+
+list workflow
+
+---
+
+argo list -n argo
+
+
+
+delete all the work flow
+
+---
+
+argo delete {your workflow name} -n argo
+
+
+
+delete the cronjob
+
+---
+
+kubectl delete -f cron.yaml -n argo
+
+
+
+Argo CD
+
+===
+
+
+
+Create dedicated namespace for Argo CD
+
+---
+
+kubectl create namespace argocd
+
+
+
+install argo cd
+
+---
+
+kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
+
+
+
+list the resource created
+
+---
+
+kubectl get all -n argocd
+
+
+
+download argo cd cli
+
+---
+
+curl -sSL -o argocd-linux-amd64 https://github.com/argoproj/argo-cd/releases/latest/download/argocd-linux-amd64
+
+
+
+install the cli
+
+---
+
+install -m 555 argocd-linux-amd64 /usr/local/bin/argocd
+
+
+
+check version
+
+---
+
+argocd version --client
+
+
+
+Patch the service to use LoadBalancer
+
+---
+
+kubectl patch svc argocd-server -n argocd -p '{"spec": {"type": "LoadBalancer"}}'
+
+
+
+get the public ip of the server
+
+---
+
+kubectl get svc -n argocd
+
+
+
+get the initial admin password
+
+----
+
+kubectl get secret argocd-initial-admin-secret -n argocd  -o jsonpath="{.data.password}" | base64 -d && echo
+
+
+
+login to the argocd ui
+
+---
+
+username : admin
+
+password : {password from previous commnad}
+
+
+
+login via cli
+
+---
+
+argocd login {your service public ip}
+
+
+
+username : admin
+
+password : {password from previous commnad}
+
+
+
+List the apps
+
+---
+
+argocd app list
+
+
+
+public example apps
+
+---
+
+https://github.com/argoproj/argocd-example-apps
+
+
+
+Create a guestbook application
+
+---
+
+argocd app create guestbook --repo https://github.com/argoproj/argocd-example-apps.git --path guestbook --dest-server https://kubernetes.default.svc --dest-namespace default
+
+
+
+list the argocd app
+
+---
+
+argocd app list
+
+
+
+list the resources in default namespace
+
+---
+
+kubectl get all
+
+
+
+Sync (deploy) the application
+
+---
+
+argocd app sync guestbook
+
+
+
+Watch the sync progress
+
+---
+
+argocd app wait guestbook --health
+
+
+
+Check application status
+
+---
+
+argocd app get guestbook
+
+
+
+check deployed resources
+
+--
+
+kubectl get all
+
+
+
+helm based app deployment
+
+---
+
+argocd app create helm-guestbook --repo https://github.com/argoproj/argocd-example-apps.git --path helm-guestbook --dest-server https://kubernetes.default.svc --dest-namesp
+
+ace default
+
+
+
+Sync (deploy) the application
+
+---
+
+argocd app sync helm-guestbook
+
+
+
+check deployed resources
+
+--
+
+kubectl get all
+
+
+
+List all resources in the application
+
+---
+
+argocd app resources helm-guestbook
+
+
+
+get the logs of the application
+
+---
+
+argocd app logs helm-guestbook
+
+
+
+Follow logs
+
+---
+
+argocd app logs helm-guestbook --follow
+
+
+
+CTRL + c to exit
+
+
+
+Set application parameters
+
+---
+
+argocd app set helm-guestbook --helm-set replicaCount=3
+
+
+
+sync the app
+
+---
+
+argocd app sync helm-guestbook
+
+
+
+check deployed resources
+
+--
+
+kubectl get all
