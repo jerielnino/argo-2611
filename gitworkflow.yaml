@@ -1,0 +1,135 @@
+apiVersion: argoproj.io/v1alpha1
+
+kind: Workflow
+
+metadata:
+
+  generateName: deploy-from-git
+
+spec:
+
+  entrypoint: git-deploy
+
+
+
+  arguments:
+
+    parameters:
+
+    - name: repo-url
+
+      value: "https://github.com/sathishbob/argo-2611.git"
+
+    - name: branch
+
+      value: "main"
+
+    - name: yaml-path
+
+      value: "firstapp.yaml"
+
+
+
+  volumeClaimTemplates:
+
+  - metadata:
+
+      name: workdir
+
+    spec:
+
+      accessModes: ["ReadWriteOnce"]
+
+      resources:
+
+        requests:
+
+          storage: 1Gi
+
+
+
+  templates:
+
+  - name: git-deploy
+
+    steps:
+
+    - - name: clone-repo
+
+        template: git-clone
+
+    - - name: apply-yaml
+
+        template: kubectl-apply
+
+    - - name: verify
+
+        template: check-status
+
+
+
+  - name: git-clone
+
+    container:
+
+      image: alpine/git
+
+      command: ["/bin/sh", "-c"]
+
+      args:
+
+      - |
+
+        git clone --single-branch --branch {{workflow.parameters.branch}} {{workflow.parameters.repo-url}} /work/repo
+
+        echo "Repository Cloned successfully"
+
+        ls -la /work/repo
+
+      volumeMounts:
+
+      - name: workdir
+
+        mountPath: /work
+
+
+
+  - name: kubectl-apply
+
+    container:
+
+      image: bitnami/kubectl:latest
+
+      command: ["/bin/sh", "-c"]
+
+      args:
+
+      - |
+
+        kubectl apply -f /work/repo/{{workflow.parameters.yaml-path}}
+
+        echo "YAML applied sucessfully."
+
+      volumeMounts:
+
+      - name: workdir
+
+        mountPath: /work
+
+
+
+  - name: check-status
+
+    container:
+
+      image: bitnami/kubectl:latest
+
+      command: ["/bin/sh", "-c"]
+
+      args:
+
+      - |
+
+        kubectl get all -n argo
+
+        echo "Resource validated sucessfully."
